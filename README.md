@@ -6,7 +6,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
   - <b>Secure File Storage System</b>
-  - [Practicing file encryption in Python]([https://github.com/migueldiascoelho/SecureFolder)
+  - [Practicing file encryption in Python](https://github.com/migueldiascoelho/SecureFolder)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
