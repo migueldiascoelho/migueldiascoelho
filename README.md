@@ -24,7 +24,7 @@
 
 
  - 🎓 BSc in Computer Science @ UAb - Candidate
- - 🎖️ AWS Cloud Practitioner Certification & Google Cybersecurity Certification
+ - 🎖️ CompTIA Security+, AWS Cloud Practitioner Certification & Google Cybersecurity Certification
 
 
 
