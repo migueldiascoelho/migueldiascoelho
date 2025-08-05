@@ -12,17 +12,18 @@ I mostly work on audio plugins and cloud architecture these days, here are some 
   - <b>Informed Search Algorithm</b>
   - [Branch and Bound Algorithm that searches for an optimal solution within a matrix, in Python](https://github.com/migueldiascoelho/BranchAndBound)
 
-<h2>🔒 Cybersecurity Projects:</h2>
-
-  - <b>Secure File Storage System</b>
-  - [Practicing file encryption in Python](https://github.com/migueldiascoelho/SecureFolder)
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - <b>HSK Flashcards</b>
   - [Mandarin vocabulary study app with Python](https://github.com/migueldiascoelho/HSKFlashcards)
   - <b>Market Predictor</b>
   - [Using historical data to predict Market prices in C#](https://github.com/migueldiascoelho/MarketPredictor)
+
+<h2>🔒 Cybersecurity Projects:</h2>
+
+  - <b>Secure File Storage System</b>
+  - [Practicing file encryption in Python](https://github.com/migueldiascoelho/SecureFolder)
+
 
 
 
