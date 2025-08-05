@@ -8,7 +8,7 @@ I mostly work on audio plugins and cloud architecture these days, here are some 
 <h2>🎓 University Projects:</h2>
 
   - <b>Capstone Project</b>  (BSc in Computer Science)
-  - [Convolution Reverb plugin in C++ with JUCE]([https://github.com/migueldiascoelho/RectangleWorld](https://github.com/migueldiascoelho/convolution))
+  - [Convolution Reverb plugin in C++ with JUCE](https://github.com/migueldiascoelho/convolution)
   - <b>Informed Search Algorithm</b>
   - [Branch and Bound Algorithm that searches for an optimal solution within a matrix, in Python](https://github.com/migueldiascoelho/BranchAndBound)
 
